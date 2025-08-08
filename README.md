@@ -2,7 +2,7 @@
 
 Netflix-style **"Recently Added"** overlay for [Kometa](https://kometa.wiki) to highlight newly added media in Plex.
 
-![Recently Added Overlay Example](overlays/recently_added.png)
+![Recently Added Overlay Example](overlays/recently_added.png)(https://i.imgur.com/QSvQ3uc.jpeg)
 
 ## Features
 - Adds a **Netflix-style "Recently Added"** badge to your Plex posters.
