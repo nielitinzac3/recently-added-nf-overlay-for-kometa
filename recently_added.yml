@@ -1,11 +1,11 @@
 overlays:
-  Recently Added Overlay:
+  Recently Added:
     plex_all: true
     filters:
       added: 20
     overlay:
       name: Recently Added
-      file: config/overlays/recently_added.png
+      file: overlays/recently_added.png
       horizontal_align: left
       vertical_align: bottom
       horizontal_offset: 0
