@@ -1,4 +1,4 @@
-# Recently Added NF for Plex
+# Recently Added NF Overlay for Kometa
 
 Netflix-style **"Recently Added"** overlay for [Kometa](https://kometa.wiki) to highlight newly added media in Plex.
 
